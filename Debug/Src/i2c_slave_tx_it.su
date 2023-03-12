@@ -1,0 +1,6 @@
+../Src/i2c_slave_tx_it.c:25:6:I2C1_GPIOInits	24	static
+../Src/i2c_slave_tx_it.c:41:6:I2C1_Inits	8	static
+../Src/i2c_slave_tx_it.c:50:5:main	8	static
+../Src/i2c_slave_tx_it.c:66:6:I2C1_EV_IRQHandler	8	static
+../Src/i2c_slave_tx_it.c:72:6:I2C1_ER_IRQHandler	8	static
+../Src/i2c_slave_tx_it.c:76:6:I2C_ApplicationEventCallback	16	static
